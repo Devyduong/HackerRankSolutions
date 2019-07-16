@@ -1,0 +1,7 @@
+D:\Document\HackerRank\NewYearChaos\bin\Debug\NewYearChaos.exe.config
+D:\Document\HackerRank\NewYearChaos\bin\Debug\NewYearChaos.exe
+D:\Document\HackerRank\NewYearChaos\bin\Debug\NewYearChaos.pdb
+D:\Document\HackerRank\NewYearChaos\obj\Debug\NewYearChaos.csprojAssemblyReference.cache
+D:\Document\HackerRank\NewYearChaos\obj\Debug\NewYearChaos.csproj.CoreCompileInputs.cache
+D:\Document\HackerRank\NewYearChaos\obj\Debug\NewYearChaos.exe
+D:\Document\HackerRank\NewYearChaos\obj\Debug\NewYearChaos.pdb
